@@ -1,22 +1,24 @@
 # Phishing Detection & Awareness Report
 
-## 📌 Overview
-This project contains a phishing detection and awareness report created as part of a cybersecurity internship.
+## Overview
+This repository contains a professional phishing detection and awareness report created as part of a cybersecurity internship. The report aims to educate users about phishing attacks and provide clear prevention guidelines.
 
-## 🛠 Tools Used
-- Sample phishing emails
-- Basic email analysis techniques
-- MS Word / PDF
+## Tools Used
+- Public phishing email samples
+- Email Header Analyzer
+- Browser tools for safe link and domain checking
+- MS Word / PDF for report documentation
 
-## 🔍 Analysis Approach
-Emails were analyzed based on:
-- Sender domain
-- Suspicious links
-- Language and urgency
-- Phishing indicators
+## Analysis Approach
+The emails were analyzed based on:
+- Sender domain and email authenticity
+- Suspicious URLs and links
+- Language and urgency (fear-based messages)
+- Phishing indicators (generic greetings, spoofed domains, malicious attachments)
 
-## 📄 Report
-The full report is available in this repository as a PDF file.
+## Report
+The full report is available as a PDF file in this repository:
+`phishing-report.pdf`
 
-## 🎯 Objective
-To identify phishing emails and create awareness to prevent cyber attacks.
+## Objective
+To help users and organizations identify phishing emails and reduce the risk of cyber attacks by creating awareness and providing simple, practical guidelines.
